@@ -1,0 +1,38 @@
+Worked on Stock Analysis on different stocks performing ML Data Analytics and Preprocessing using Python. Worked using different Modules like Pandas, Matplotlib, seaborn, scikit, scipy.
+Implemented ML algorithms like Linear Regression, Logistic Regression on Telsa stock dating from 2017 to 2019.
+Performed Classification Model on clustering different stocks.
+
+VWAP(Volume weighted average Price) is an important aspect of trading which gives the the average price of the stock traded throughtout the day based on volume.
+depending on this ratio the institutions predict when to buy or sell the firm to maintain the average of the stock.
+
+SMA(simple Moving average) finding the average of the price over a certain period
+
+Trend of the stock - whether the stock its having a good run or poor run in the market based on daily percentage changes. And also the trend of the stock at particular day. visualizing the occurance percentage of each trend to get idea about the frequency of flutuations in stock and surety of stock.
+
+Visuializations of stock finding out when the stock had drastic changes by plotting perc change and volume
+
+Analyse the correlations between stocks based on percentage changes inorder to design a deversified portfolio. correlation is used to measure the degree two securities more in relation to each other. suppose the industry had a hit then all its companies are facing a bull run. and also how the stocks are related to each other based upon the correlation coefficient.
+
+correlation is used in diversification which is a risk management strategy similar to mutual funds where the the investments is done on multiple firms based on correlations between them. where the portfolio is constructed based on different kinds of assent which on average yeild long term return and lowers risk usually negative correlation stocks are used to have risk free returns
+
+well diversified portfolio is a investment technique where 25-30  stocks are invested which yeild the most cost effective level of risk reduction. usually have very short term returns.
+
+volatility is a measure of dispersion(risk associated with it) of security. these are usually measured with standard deviation or variance. the greater the swing in the market the more volatile it is. we use daily weekly monthly or annualized volatility to know about the stock.
+
+Predicting trade calls of the stock when to buy the stock when to sell the stock. this is calculated using SMA
+
+Bollinger Bands are also calculated based on SMA which tells whether the stock is overbought or oversold. the width of bollinger band depicts whether the stock is volatile if the width is more than volatile else less volatile.
+
+Linear regression model with many variables.
+CAPM(Capital asset Pricing Model) describes the relation between risk and expected returns used for risky securities. and to find time value for money.
+Beta values is the risk rate of portfolio with respect to the market.
+if beta of portfolio is less than 1 it is less riskier tha market
+if beta of portfolio is greater than 1 it is riskier than market.
+using beta we find CAPM which tell if the stock is worth it even with the risk associated with it CAPM analyses over risk free rate and time value for money.
+
+Classification model to predict the call trader need to take based on bollinger bands. used different classification method to find the out the best efficiency. also predicting the action of the stock next day for short term investors.
+
+Mordern Portfolio Theory - optimized python portfolio based on the fundamental concepts of diversification to choose a specific mix of assets based on investment goals, to have a selection between their desired return vs their risk. invensting in multiple stocks
+
+Clustering all the stocks based on their mean and annual volatilities and returns
+ 
